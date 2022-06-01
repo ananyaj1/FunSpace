@@ -1,0 +1,19 @@
+body {
+    background-image: url('back.jpg');
+    color: white;
+    text-align: center;
+    width: 450px;
+}
+
+table, th {
+    margin: auto; 
+    border: 2px solid white;
+    border-collapse: collapse;
+    padding: 20px;
+}
+
+td {
+    padding: 30px;
+    font-size: 30px;
+    color: skyblue;
+}
